@@ -87,15 +87,6 @@ const questions = [
         ]
     },
     {
-        question: "What is the name of the first satellite launched into space?",
-        answers: [
-            { text: 'Apollo 11', correct: false },
-            { text: 'Voyager 1', correct: false },
-            { text: 'Hubble Space Telescope', correct: false },
-            { text: 'Sputnik 1', correct: true },
-        ]
-    },
-    {
         question: "What is the largest moon in our solar system?",
         answers: [
             { text: 'Titan', correct: false },
